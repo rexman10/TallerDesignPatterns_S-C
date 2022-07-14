@@ -5,6 +5,7 @@ import Implements.Notification;
 
 public class Signal extends Decorator
 {
+    //Constructor
     public Signal(Notification notify)
     {
         super( notify );
